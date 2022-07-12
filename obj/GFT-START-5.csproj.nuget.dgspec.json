@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Projects\\GFT-START-5\\GFT-START-5.csproj": {}
+    "D:\\Projects\\GFT-START-5\\GFT-START-5.csproj": {}
   },
   "projects": {
-    "d:\\Projects\\GFT-START-5\\GFT-START-5.csproj": {
+    "D:\\Projects\\GFT-START-5\\GFT-START-5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Projects\\GFT-START-5\\GFT-START-5.csproj",
+        "projectUniqueName": "D:\\Projects\\GFT-START-5\\GFT-START-5.csproj",
         "projectName": "GFT-START-5",
-        "projectPath": "d:\\Projects\\GFT-START-5\\GFT-START-5.csproj",
+        "projectPath": "D:\\Projects\\GFT-START-5\\GFT-START-5.csproj",
         "packagesPath": "C:\\Users\\Fábio Lopes\\.nuget\\packages\\",
-        "outputPath": "d:\\Projects\\GFT-START-5\\obj\\",
+        "outputPath": "D:\\Projects\\GFT-START-5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

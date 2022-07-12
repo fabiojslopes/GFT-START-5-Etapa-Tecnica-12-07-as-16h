@@ -1,0 +1,15 @@
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.csproj.AssemblyReference.cache
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.AssemblyInfoInputs.cache
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.AssemblyInfo.cs
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.csproj.CoreCompileInputs.cache
+D:\Projects\GFT-START-5\bin\Debug\net6.0\GFT-START-5.exe
+D:\Projects\GFT-START-5\bin\Debug\net6.0\GFT-START-5.deps.json
+D:\Projects\GFT-START-5\bin\Debug\net6.0\GFT-START-5.runtimeconfig.json
+D:\Projects\GFT-START-5\bin\Debug\net6.0\GFT-START-5.dll
+D:\Projects\GFT-START-5\bin\Debug\net6.0\GFT-START-5.pdb
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.dll
+D:\Projects\GFT-START-5\obj\Debug\net6.0\refint\GFT-START-5.dll
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.pdb
+D:\Projects\GFT-START-5\obj\Debug\net6.0\GFT-START-5.genruntimeconfig.cache
+D:\Projects\GFT-START-5\obj\Debug\net6.0\ref\GFT-START-5.dll

@@ -24,3 +24,7 @@ public class ContaCorrente : Conta, Iimposto
         return imposto;
     }
 }
+
+internal interface Iimposto
+{
+}
